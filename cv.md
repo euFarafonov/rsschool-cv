@@ -22,14 +22,14 @@ OS: Windows, Linux
 The main goal for the near future: full mastering of the programming language javascript, its server implementation (nodejs) and frameworks (react, angular, vue).
 
 ## Some projects, executed by me:
-* https://kladofka.com.ua
-* https://ua-tools.com
-* https://eibenstock-ua.com
-* https://jet-ua.com
-* https://scheppach-ua.com
-* https://deca-ua.com
-* https://koza.mk.ua
-* https://shurupovertu.com
+* [Shop Kladofka](https://kladofka.com.ua)
+* [Shop AEG](https://ua-tools.com)
+* [Shop Eibenstock](https://eibenstock-ua.com)
+* [Shop JET](https://jet-ua.com)
+* [Shop Scheppach](https://scheppach-ua.com)
+* [Shop DECA](https://deca-ua.com)
+* [Bathhouse KOZA](https://koza.mk.ua)
+* [Shop Makito](https://shurupovertu.com)
 
 ## Languages:
 * Ukrainian and Russian - a high level;
