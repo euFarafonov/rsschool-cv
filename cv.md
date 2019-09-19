@@ -1,6 +1,4 @@
-# Resume
-
-# Farafonov Eugene
+# Resume - Farafonov Eugene
 
 ## Contacts:
 
