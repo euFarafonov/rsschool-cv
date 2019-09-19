@@ -19,30 +19,17 @@ Database: MySQL
 Other technologies used: HTML5, CSS3, jQuery, GIT
 OS: Windows, Linux
 
-In October 2017, I completed my studies at the online school of LoftSchool at the course «Integrated Javascript Training» (certificate reference https://drive.google.com/open?id=1-eMtzcwxsAoCJbcRQdRD21nerS6hnkiP).
 The main goal for the near future: full mastering of the programming language javascript, its server implementation (nodejs) and frameworks (react, angular, vue).
 
 ##Some projects, executed by me:
-
-- https://kladofka.com.ua
-- https://ua-tools.com
-
-- https://gotoweb.com.ua
-- https://eibenstock-ua.com
-
-- https://jet-ua.com
-- https://scheppach-ua.com
-
-- https://makito.com.ua
-- https://deca-ua.com
-
-- https://fork-ex.com
-- https://moto-pompa.com
-
-- https://koza.mk.ua
-- https://shurupovertu.com
-
-- http://delta-pilot.ua
+* https://kladofka.com.ua
+* https://ua-tools.com
+* https://eibenstock-ua.com
+* https://jet-ua.com
+* https://scheppach-ua.com
+* https://deca-ua.com
+* https://koza.mk.ua
+* https://shurupovertu.com
 
 ##Languages:
 
