@@ -1,5 +1,7 @@
 # Resume - Farafonov Eugene
 
+![Photo Farafonov](/img/farafonov.jpg)
+
 ### Contacts:
 Mobile phone: 067-517-17-48
 
