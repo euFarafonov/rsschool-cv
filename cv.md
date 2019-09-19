@@ -14,10 +14,10 @@ E-mail: eu.farafonov@gmail.com
 In 2005 graduated from the National University of Shipbuilding, received a diploma in the specialty «Electromechanical Automation Systems and Electric Drives».
 
 ## Skills:
-Programming Languages: JavaScript, PHP
-Database: MySQL
-Other technologies used: HTML5, CSS3, jQuery, GIT
-OS: Windows, Linux
+* Programming Languages: JavaScript, PHP
+* Database: MySQL
+* Other technologies used: HTML5, CSS3, jQuery, GIT
+* OS: Windows, Linux
 
 The main goal for the near future: full mastering of the programming language javascript, its server implementation (nodejs) and frameworks (react, angular, vue).
 
