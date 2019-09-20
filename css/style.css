@@ -1,0 +1,113 @@
+body {
+  font: 400 15px/1.5 Verdana, "Arial", sans-serif;
+  color: #333333;
+  background-color: #FFFAFA;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 26px;
+  text-align: center;
+  color: #10488B;
+}
+
+h2 {
+  margin: 20px 0 0 0;
+  font-weight: 700;
+  font-size: 18px;
+  color: #10488B;
+}
+
+h2 span {
+  font-size: 15px;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  cursor: pointer;
+  color: #0000CD;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+ul:not(.personal) li::before {
+  content: "- ";
+}
+
+ul li span {
+  font-weight: 700;
+}
+
+.container {
+  padding: 0 0 10px 0;
+  border-bottom: 3px solid #AF5756;
+}
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  background-color: #ffffff;
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.3);
+}
+
+  .header {
+    padding-top: 20px;
+  }
+
+    .header-photo {
+      float: right;
+      width: 150px;
+    }
+  
+  .main {
+    font-size: 0;
+  }
+    .main p {
+      font-size: 15px;
+    }
+    
+    .main-left {
+      display: inline-block;
+      width: 50%;
+      vertical-align: top;
+      font-size: 15px;
+    }
+
+    .main-right {
+      display: inline-block;
+      width: 50%;
+      vertical-align: top;
+      font-size: 15px;
+    }
+  
+  .footer {
+    padding-bottom: 30px;
+  }
